@@ -77,11 +77,11 @@ export default function ProductListing() {
       {/* Loading / Error */}
       <div className="w-full  py-4">
   {/* Products grid */}
-  <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 w-full">
+   <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 w-full">
     {products.map(product => (
       <ProductCard key={product.id} product={product} />
     ))}
-  </div>
+  </div> 
 
   {/* Loading / Error */}
   {loading && (

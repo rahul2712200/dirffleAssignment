@@ -6,6 +6,14 @@
     "LOADING": "Cargando...",
     "BUY_NOW": "Cómpralo ahora",
     "NO_MORE_PRODUCT": "No hay más productos",
-    "ERROR_TEXT": "No eres tú, somos nosotros. Por favor, intenta recargar o vuelve más tarde."
+    "ERROR_TEXT": "No eres tú, somos nosotros. Por favor, intenta recargar o vuelve más tarde.",
+    "FOOTER_DESC": "¡Tu tienda integral para todo!",
+    "FOOTER_NAV": "Navegación",
+    "HOME": "Inicio",
+    "CONTACT": "Contacto",
+    "ABOUT": "Acerca de",
+    "FOOTER_CONTACT": "Contáctanos",
+    "FOLLOW_US": "Síguenos"
+
   }
   
